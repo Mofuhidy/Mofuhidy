@@ -1,27 +1,25 @@
 <p> <img src="./profileREADME.png" alt="mofuhidy" /> </p>
 <h1 align="center">Hello World 👋🏽 ..!</h1>
+# 💫 About Me:
+I am a front-end developer from Yemen who is passionate about learning new things every day. I enjoy drinking tea, coffee, watching anime, movies, and series, and listening to music. I am currently enrolled in Microverse, a coding bootcamp that is helping me to become a better developer.<br><br>I am always looking for new challenges and opportunities to learn and grow. I am confident that my passion for learning and my dedication to my craft will make me a valuable asset to any team.<br><br>If you are looking for a talented and motivated front-end developer, please do not hesitate to contact me.
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mofuhidy&label=Profile%20views&color=005285&style=flat" alt="mofuhidy" /> </p> -->
+## 🌐 Socials:
 
-- 🌱 I am currently enrolled in Microverse, a coding bootcamp that is helping me to become a better developer.
-- 👨🏽‍💻 All of my projects are available at: [https://mofuhidy.vercel.app/](https://mofuhidy.vercel.app/)
-- ⚡ Fun fact: **I enjoy drinking tea, coffee, watching anime, movies, and series, and listening to music.**
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mofuhidy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-alfuhidy-b0081319a/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/mofuhidy"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/mohammed-alfuhidy-b0081319a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-</p>
+<!-- # 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mofuhidy&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mofuhidy&theme=slateorange&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mofuhidy&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
-<h3 align="left">Languages and Tools:</h3>
+### ✍️ Random Dev Quote
 
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  </p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mofuhidy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mofuhidy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mofuhidy&show_icons=true&theme=tokyonight&locale=en" alt="mofuhidy" /></p>
+[![](https://visitcount.itsvg.in/api?id=Mofuhidy&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
