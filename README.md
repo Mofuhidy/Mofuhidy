@@ -1,4 +1,4 @@
-<p> <img src="./profileREADME.png" alt="mofuhidy" /> </p>
+<p> <img src="./newREADME.png" alt="mofuhidy" /> </p>
 
 <div align="center">
 
